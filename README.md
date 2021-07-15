@@ -4,7 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsom-syom%2Fhit-counter&count_bg=%23FFA2DA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <img src="https://img.shields.io/badge/Born2Code-FFFFFF?style=flat-square&logo=42&logoColor=white&color=000000"/></a>
 
-<img src="https://img.shields.io/badge/C-FFFFFF?style=flat-square&logo=C&logoColor=white&color=A8B9CC"/></a>
+<img src="https://img.shields.io/badge/C-FFFFFF?style=flat-square&logo=C&logoColor=white&color=00599C&fontColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/C++-FFFFFF?style=flat-square&logo=C%2B%2B&logoColor=white&color=00599C"/></a>
 <img src="https://img.shields.io/badge/Makefile-FFFFFF?style=flat-square&logo=CMake&logoColor=white&color=064F8C"/></a>
 
