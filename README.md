@@ -10,9 +10,15 @@
 
 
 <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=white&color=F7DF1E"/></a>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=TypeScript&logoColor=white&color=3178C6"/></a>
 <img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=HTML5&logoColor=white&color=E34F26"/></a>
 <img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=CSS3&logoColor=white&color=1572B6"/></a>
+<img src="https://img.shields.io/badge/Sass-000000?style=flat-square&logo=Sass&logoColor=white&color=CC6699"/></a>
+<img src="https://img.shields.io/badge/styled%20components-000000?style=flat-square&logo=styled-components&logoColor=white&color=DB7093"/></a>
+
+
 <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=white&color=61DAFB"/></a>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white&color=000000"/></a>
 
 <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=Docker&logoColor=white&color=2496ED"/></a>
 <img src="https://img.shields.io/badge/docker%20compose-000000?style=flat-square&logo=Docker&logoColor=white&color=2496ED"/></a>
