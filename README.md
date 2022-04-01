@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=SOM%20github&fontSize=70&fontColor=FFFFFF&animation=fadeIn)
 ### ✨ welcome som's github ✨
 
-#### 😎 resume: [링크](https://dasom-hyeon.notion.site/8248c98f5c3b44fb87d1db31cdcb5707)
 
 -----
 
