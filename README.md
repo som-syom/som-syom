@@ -26,8 +26,6 @@
 <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=Docker&logoColor=white&color=2496ED"/></a>
 <img src="https://img.shields.io/badge/docker%20compose-000000?style=flat-square&logo=Docker&logoColor=white&color=2496ED"/></a>
 
-
-- 🌱 I’m currently learning in 42 Seoul ...
 <!-- 
 뱃지 사용법
 <img src="https://img.shields.io/badge/글자-글자색?style=flat-square&logo=로고이름&logoColor=white&color=배경컬러"/></a>
